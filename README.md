@@ -1,0 +1,2 @@
+# Portfolio
+I've worked for several years providing data-driven and actionable insights to business teams, non-profits, and university organizations.  Our insights helped drive significant changes in how various teams interacted with their target audiences, prioritized scarce resources, and reported their successes and goals for the future.  I believe that data insights couched in compelling narratives can invigorate business and improve lives.
