@@ -10,4 +10,4 @@ Please peruse this portfolio to investigate how I transform massive data sets in
 
 2. Design Projects
 
-... A collection of slides and other design work for presentations to volunteer organizations about changes implemented from some (unpublished and private) analysis also performed by me. ...
+   A collection of slides and other design work for presentations to volunteer organizations about changes implemented from some (unpublished and private) analysis also performed by me.
